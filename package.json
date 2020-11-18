@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "opros9",
+  "version": "1.0.2",
+  "engines": {
+    "node": "14.8.0"
+  },
+  "main": "s.mjs",
+  "repository": "https://github.com/openstudent/opros9.git",
+  "author": "GossJS",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
